@@ -1,6 +1,7 @@
 import streamlit as st
 import numpy as np
 import cv2
+
 # Load image.
 uploaded_file = st.sidebar.file_uploader("Upload an image:")
 
